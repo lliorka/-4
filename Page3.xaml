@@ -1,0 +1,51 @@
+﻿<Page x:Class="Практическая_работа_4_Колчин_Михайлова.Page3"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:lvc="clr-namespace:LiveCharts.Wpf;assembly=LiveCharts.Wpf"
+      Title="Page3" Height="419" Width="504">
+
+    <Grid Margin="20" Background="White">
+
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="200"/>
+            <ColumnDefinition/>
+        </Grid.ColumnDefinitions>
+
+        <!-- Левая панель -->
+
+        <StackPanel>
+
+            <TextBlock Text="x0"/>
+            <TextBox x:Name="txtX0"/>
+
+            <TextBlock Text="xk"/>
+            <TextBox x:Name="txtXk"/>
+
+            <TextBlock Text="dx"/>
+            <TextBox x:Name="txtDx"/>
+
+            <TextBlock Text="b"/>
+            <TextBox x:Name="txtB"/>
+
+            <Button Content="Вычислить"
+                    Margin="0,10"
+                    Click="BtnCalculate_Click"/>
+
+            <Button Content="Очистить"
+                    Click="BtnClear_Click"/>
+
+            <TextBlock Text="Ответ"/>
+            <TextBox x:Name="txtResult"
+                     Height="89"
+                     AcceptsReturn="True"
+                     VerticalScrollBarVisibility="Auto" Width="156" TextChanged="txtResult_TextChanged"/>
+        </StackPanel>
+
+        <!-- График -->
+
+        <lvc:CartesianChart x:Name="chart"
+                            Grid.Column="1" Margin="38,138,38,10"/>
+        <Image Grid.Column="1" Margin="13,38,0,305" Source="/Снимок экрана 2026-03-05 231519.png" Stretch="Fill"/>
+
+    </Grid>
+</Page>

@@ -1,0 +1,29 @@
+C:\Users\HUAWEI\source\repos\Практическая работа 4 Колчин Михайлова\Практическая работа 4 Колчин Михайлова\obj\Debug\Практическая работа 4 Колчин Михайлова.csproj.AssemblyReference.cache
+C:\Users\HUAWEI\source\repos\Практическая работа 4 Колчин Михайлова\Практическая работа 4 Колчин Михайлова\obj\Debug\MainWindow.baml
+C:\Users\HUAWEI\source\repos\Практическая работа 4 Колчин Михайлова\Практическая работа 4 Колчин Михайлова\obj\Debug\MainWindow.g.cs
+C:\Users\HUAWEI\source\repos\Практическая работа 4 Колчин Михайлова\Практическая работа 4 Колчин Михайлова\obj\Debug\Page1.g.cs
+C:\Users\HUAWEI\source\repos\Практическая работа 4 Колчин Михайлова\Практическая работа 4 Колчин Михайлова\obj\Debug\Page2.g.cs
+C:\Users\HUAWEI\source\repos\Практическая работа 4 Колчин Михайлова\Практическая работа 4 Колчин Михайлова\obj\Debug\Page3.g.cs
+C:\Users\HUAWEI\source\repos\Практическая работа 4 Колчин Михайлова\Практическая работа 4 Колчин Михайлова\obj\Debug\App.g.cs
+C:\Users\HUAWEI\source\repos\Практическая работа 4 Колчин Михайлова\Практическая работа 4 Колчин Михайлова\obj\Debug\Практическая работа 4 Колчин Михайлова_MarkupCompile.cache
+C:\Users\HUAWEI\source\repos\Практическая работа 4 Колчин Михайлова\Практическая работа 4 Колчин Михайлова\obj\Debug\Практическая работа 4 Колчин Михайлова_MarkupCompile.lref
+C:\Users\HUAWEI\source\repos\Практическая работа 4 Колчин Михайлова\Практическая работа 4 Колчин Михайлова\bin\Debug\Практическая работа 4 Колчин Михайлова.exe.config
+C:\Users\HUAWEI\source\repos\Практическая работа 4 Колчин Михайлова\Практическая работа 4 Колчин Михайлова\bin\Debug\Практическая работа 4 Колчин Михайлова.exe
+C:\Users\HUAWEI\source\repos\Практическая работа 4 Колчин Михайлова\Практическая работа 4 Колчин Михайлова\bin\Debug\Практическая работа 4 Колчин Михайлова.pdb
+C:\Users\HUAWEI\source\repos\Практическая работа 4 Колчин Михайлова\Практическая работа 4 Колчин Михайлова\obj\Debug\Page1.baml
+C:\Users\HUAWEI\source\repos\Практическая работа 4 Колчин Михайлова\Практическая работа 4 Колчин Михайлова\obj\Debug\Page2.baml
+C:\Users\HUAWEI\source\repos\Практическая работа 4 Колчин Михайлова\Практическая работа 4 Колчин Михайлова\obj\Debug\Page3.baml
+C:\Users\HUAWEI\source\repos\Практическая работа 4 Колчин Михайлова\Практическая работа 4 Колчин Михайлова\obj\Debug\Практическая работа 4 Колчин Михайлова.g.resources
+C:\Users\HUAWEI\source\repos\Практическая работа 4 Колчин Михайлова\Практическая работа 4 Колчин Михайлова\obj\Debug\Практическая_работа_4_Колчин_Михайлова.Properties.Resources.resources
+C:\Users\HUAWEI\source\repos\Практическая работа 4 Колчин Михайлова\Практическая работа 4 Колчин Михайлова\obj\Debug\Практическая работа 4 Колчин Михайлова.csproj.GenerateResource.cache
+C:\Users\HUAWEI\source\repos\Практическая работа 4 Колчин Михайлова\Практическая работа 4 Колчин Михайлова\obj\Debug\Практическая работа 4 Колчин Михайлова.csproj.CoreCompileInputs.cache
+C:\Users\HUAWEI\source\repos\Практическая работа 4 Колчин Михайлова\Практическая работа 4 Колчин Михайлова\obj\Debug\Практическая работа 4 Колчин Михайлова.exe
+C:\Users\HUAWEI\source\repos\Практическая работа 4 Колчин Михайлова\Практическая работа 4 Колчин Михайлова\obj\Debug\Практическая работа 4 Колчин Михайлова.pdb
+C:\Users\HUAWEI\source\repos\Практическая работа 4 Колчин Михайлова\Практическая работа 4 Колчин Михайлова\obj\Debug\Практическая работа 4 Колчин Михайлова.exe.config
+C:\Users\HUAWEI\source\repos\Практическая работа 4 Колчин Михайлова\Практическая работа 4 Колчин Михайлова\bin\Debug\LiveCharts.dll
+C:\Users\HUAWEI\source\repos\Практическая работа 4 Колчин Михайлова\Практическая работа 4 Колчин Михайлова\bin\Debug\LiveCharts.Wpf.dll
+C:\Users\HUAWEI\source\repos\Практическая работа 4 Колчин Михайлова\Практическая работа 4 Колчин Михайлова\bin\Debug\LiveCharts.pdb
+C:\Users\HUAWEI\source\repos\Практическая работа 4 Колчин Михайлова\Практическая работа 4 Колчин Михайлова\bin\Debug\LiveCharts.xml
+C:\Users\HUAWEI\source\repos\Практическая работа 4 Колчин Михайлова\Практическая работа 4 Колчин Михайлова\bin\Debug\LiveCharts.Wpf.pdb
+C:\Users\HUAWEI\source\repos\Практическая работа 4 Колчин Михайлова\Практическая работа 4 Колчин Михайлова\bin\Debug\LiveCharts.Wpf.xml
+C:\Users\HUAWEI\source\repos\Практическая работа 4 Колчин Михайлова\Практическая работа 4 Колчин Михайлова\obj\Debug\________.06AB5CC7.Up2Date
